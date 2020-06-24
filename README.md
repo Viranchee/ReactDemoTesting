@@ -10,3 +10,12 @@ Learnt:
 - React hooks - simple extraction of common functionalities
 - JS Destructuring
 - TailwindCSS
+
+
+One thing where SwiftUI shines better than Web is not requiring wrappers similar to `<div>`s.
+
+SwiftUI is also efficient and the views and it's modifications are lightweight.
+
+However, in the Web world, I see lots of examples of wrapping with `<div>`s and this could cause issues.
+
+Given the current state of popular web dev practices, Browsers might evolve to better handle the nested `<div>`s use case.
